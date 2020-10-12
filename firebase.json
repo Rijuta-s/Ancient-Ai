@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\bubs-proj",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

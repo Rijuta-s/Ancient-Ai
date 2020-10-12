@@ -27,7 +27,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
+            "styles": [ "../bubs-proj/node_modules/bulma/css/bulma.css",
               "src/styles.scss"
             ],
             "scripts": []
